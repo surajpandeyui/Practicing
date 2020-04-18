@@ -1,0 +1,14 @@
+.UserOutput{
+    
+}
+input[type="text"]{
+    padding: 10px 20px;
+    box-shadow: 5px 0 15px #ccc;
+}
+.App {
+    background: #f3f3f3;
+    width: 55%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #808080;
+}
